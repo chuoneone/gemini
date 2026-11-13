@@ -5,6 +5,7 @@
 | Skill | 說明 |
 |---|---|
 | [sped-math-worksheet](sped-math-worksheet/SKILL.md) | 數題數題：特教數學題目轉點讀報讀 HTML ＋原生 OMML 方程式 Word 學習單 |
+| [句型排列](句型排列/SKILL.md) | 語文科（國文／英文）：貼上句子，做成 UDL 句子重組互動網頁 |
 
 ## 新增 skill
 1. 在根目錄新增資料夾（名稱同 SKILL.md 的 `name`）。
